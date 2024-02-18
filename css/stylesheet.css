@@ -1,0 +1,116 @@
+/* GENERAL DESIGN */
+
+.day1, .day2, .day3, .day4, .day5 {
+
+}
+
+table {
+    border: groove;
+    /*border: ridge;*/
+}
+
+a {
+    color: #000000;
+}
+a:link,
+a:hover,
+a:visited {
+    color: black;
+}
+
+.navbar {
+
+}
+
+/* STUNDEN DESIGN */
+
+.freistunde1, .freistunde2 {
+    color: red;
+    border-right: ridge;
+    border-left: ridge;
+    background-color: red;
+}
+.informatik1, .informatik2 {
+    color: aqua;
+    border-right: ridge;
+    border-left: ridge;
+    background: aquamarine;
+}
+
+.spanisch1, .spanisch2 {
+    color: orange;
+    border-right: ridge;
+    border-left: ridge;
+    background: orange;
+}
+
+.powi1, .powi2 {
+    color: rgb(128, 128, 128);
+    border-right: ridge;
+    border-left: ridge;
+    background: rgb(128, 128, 128);
+}
+
+.schuleaus {
+    text-align: center;
+}
+
+.freistunde {
+    border: ridge;
+    background-color: red;
+    color: darkred;
+}
+
+.freistunde1 {
+    border-top: ridge;
+    background-color: red;
+    color: darkred;
+}
+
+.freistunde2 {
+    border-bottom: ridge;
+    background-color: red;
+    color: darkred;
+}
+
+.lz {
+    border-right: ridge;
+    color: black;
+}
+
+.informatik {
+    color: aqua;
+    border: ridge;
+    background: aquamarine;
+}
+.informatik1 {
+    color: aqua;
+    border-top: ridge;
+}
+.informatik2 {
+    color: aqua;
+    border-bottom: ridge;
+}
+
+.spanisch {
+    color: orange;
+    border: ridge;
+    background: orange;
+}
+.spanisch1 {
+    color: orange;
+    border-top: ridge;
+}
+.spanisch2 {
+    color: orange;
+    border-bottom: ridge;
+}
+
+.powi1 {
+    color: rgb(128, 128, 128);
+    border-top: ridge;
+}
+.powi2 {
+    color: rgb(128, 128, 128);
+    border-bottom: ridge;
+}
